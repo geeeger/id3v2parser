@@ -1,0 +1,17 @@
+{
+  "name": "@geeeger/id3v2parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geeeger <lph1988520@sina.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.9.0",
+    "iconv-lite": "^0.5.1",
+    "typescript": "^3.8.3"
+  }
+}
