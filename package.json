@@ -10,7 +10,7 @@
   "author": "geeeger <lph1988520@sina.com>",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^13.9.0",
+    "@types/node": "^14.0.24",
     "iconv-lite": "^0.5.1",
     "typescript": "^3.8.3"
   }
